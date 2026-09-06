@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
+  <img alt="GitHub Profile Card" src="./dark_mode.svg">
+</picture>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Paras Mani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lynxparas09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Paras mani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/paras) 
