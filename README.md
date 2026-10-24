@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/lynxparas09/">
     <img src="https://img.shields.io/badge/Instagram-Connect-E0A458?style=for-the-badge&logo=instagram&logoColor=FFFAF3" alt="Instagram"/>
   </a>
-  <a href="https://x.com/paras">
+  <a href="https://x.com/Xparas____09">
     <img src="https://img.shields.io/badge/X-Follow-8AA37B?style=for-the-badge&logo=x&logoColor=FFFAF3" alt="X"/>
   </a>
 </p>
